@@ -1,6 +1,6 @@
-# ntgbtminer - Game Boy edition
+# ntgbtminer - Nintendo Switch edition
 
-This is a version of ntgbtminer that works with the Game Boy bitcoin miner.
+This is a version of ntgbtminer that works with the Nintendo Switch bitcoin miner.
 
 # ntgbtminer
 
